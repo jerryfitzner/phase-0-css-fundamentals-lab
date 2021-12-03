@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+a.ten {
+  padding-left: 10px;padding-right: 10px; background-color: green;
+}
+
+figcaption{font-size: 8pt;}
+
+
+
+#featured-property {text-align: center;}
+
+p.cen {width: 800px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;}
+
+
+
+div {
+   float: left; 
+   background-color: indianred;
+   width: 25%;
+   text-align: center;
+  }
+
+
